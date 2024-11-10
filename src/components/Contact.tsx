@@ -33,7 +33,7 @@ export default function Contact() {
       } else {
         throw new Error('Failed to send message');
       }
-    } catch (error) {
+    } catch {
       setStatus('error');
       setTimeout(() => setStatus('idle'), 3000);
     }

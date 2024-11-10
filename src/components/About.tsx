@@ -19,7 +19,7 @@ export default function About() {
           </p>
           <div className="flex justify-center">
             <a
-              href="/Santiago-Rodriguez-CV.pdf"
+              href="/Hoja de vida.pdf"
               download
               className="inline-flex items-center space-x-2 px-6 py-3 bg-gradient-to-r from-purple-500 to-pink-600 rounded-lg text-white font-semibold hover:opacity-90 transition-all duration-200 transform hover:scale-105"
             >
